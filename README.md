@@ -19,7 +19,6 @@
 - 🎓 **Ingeniero de Sistemas en formación**, apasionado por el desarrollo de software.
 - ☕ Especializado en **Java**, con gran parte de mi trabajo enfocado en el ecosistema de **Minecraft**: plugins, addons y forks mejorados (Slimefun, Cultivation, Nyctocosm, MultiverseCreatures y más).
 - 🤖 Interesado en la **IA y la automatización**: integraciones de IA en Java (`java-ai-core`, `java-chat-ai`, `voice-java-ai`).
-- 🌱 Actualmente aprendiendo **DevOps, Cloud y análisis de datos**.
 - 🔭 También desarrollo herramientas útiles como `IP-Detector`, `MusicMP3-Downloader` y `YoutubeMusicMachine`.
 
 ---

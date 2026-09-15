@@ -26,11 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Slow down snake speed by 20%
+      - name: Slow down snake speed by 36%
         shell: bash
         run: |
           for f in dist/*.svg; do
-            perl -i -pe 's/dur="(\d+(?:\.\d+)?)s"/"dur=\"" . ($1 * 1.25) . "s\""/ge' "$f"
+            perl -i -pe 's/dur="(\d+(?:\.\d+)?)s"/"dur=\"" . ($1 * 1.44) . "s\""/ge' "$f"
           done
 
       - name: Push snake to output branch

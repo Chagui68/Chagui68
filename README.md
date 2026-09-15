@@ -59,11 +59,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:C084FC,50:818CF8,100:38BDF8&height=60&section=footer" />
-</div>
-
----
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:818CF8,100:C084FC&height=120&section=footer" />
 </div>

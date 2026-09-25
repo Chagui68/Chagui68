@@ -31,20 +31,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción |
-|---|---|
-| 🌾 [Cultivation_Updated](https://github.com/Chagui68/Cultivation_Updated) | Actualización del addon Cultivation a Minecraft 1.20.6 |
-| 🌌 [Nyctocosm](https://github.com/Chagui68/Nyctocosm) | Contenido nuevo para el ecosistema Minecraft |
-| 🧬 [MultiverseCreatures](https://github.com/Chagui68/MultiverseCreatures) | Criaturas personalizadas para servidores |
-| 🤖 [java-chat-ai](https://github.com/Chagui68/java-chat-ai) | Chat con IA integrado en Java |
-| 🎙️ [voice-java-ai](https://github.com/Chagui68/voice-java-ai) | Asistente de voz con IA en Java |
-| 🔧 [Networks_Better_Compatibility](https://github.com/Chagui68/Networks_Better_Compatibility) | Fork mejorado del addon Networks (Slimefun) |
-| ⛏️ [Slimefun6-Drakes-Fusion](https://github.com/Chagui68/Slimefun6-Drakes-Fusion) | Fusión y mejoras sobre Slimefun |
-| 🛡️ [SF_MilitaryArsenal](https://github.com/Chagui68/SF_MilitaryArsenal) | Arsenal militar para Slimefun |
-
----
 
 ## 🐍 Mis contribuciones
 
